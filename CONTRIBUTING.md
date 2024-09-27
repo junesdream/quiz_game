@@ -1,6 +1,6 @@
-# Contributing to [Your Project Name]
+# Contributing to [Quiz Game]
 
-Thank you for considering contributing to [Your Project Name]! We welcome contributions from everyone. This document outlines the process for contributing to the project.
+Thank you for considering contributing to Quiz Game! We welcome contributions from everyone. This document outlines the process for contributing to the project.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Thank you for considering contributing to [Your Project Name]! We welcome contri
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [your-email@example.com].
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to @junesdream GitHub .
 
 ## How Can I Contribute?
 
